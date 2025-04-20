@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @BrianShiroe
+# 👋 Hi, I’m Brian Haw
 
 ## 👀 Interests:
 I'm passionate about **AI/ML Training**, **Game Development**, and **Full Stack Web Development**.
