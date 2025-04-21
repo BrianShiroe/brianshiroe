@@ -1,18 +1,28 @@
-# 👋 Hi, I’m Brian Haw
+# 👋 Hi, I'm Brian Haw
 
-## 👀 Interests:
-I'm passionate about **AI/ML Training**, **Game Development**, and **Full Stack Web Development**.
+## 👨‍💻 About Me
+I'm a passionate developer with a strong focus on **Artificial Intelligence & Machine Learning**, **Game Development**, and **Full Stack Web Development**. Whether it's building smart systems, designing engaging gameplay experiences, or crafting powerful web platforms, I love bringing ideas to life through code.
 
-## 🌱 Current Focus:
-I'm diving deeper into the world of **Large Language Models (LLMs)**, exploring how to integrate them into our upcoming projects for more advanced capabilities.
+## 🚀 Current Focus
+I'm currently delving deep into **Large Language Models (LLMs)** and exploring their integration into real-world applications to unlock smarter, more adaptive features across my projects.
 
-## 💞️ Collaboration Goals:
-I'm open to collaborating on **Machine Learning** and **Web-based Python Projects**. If you're into innovative tech solutions, let's connect!
+## 🤝 Let's Collaborate
+I'm always open to collaboration on projects involving:
+- **Machine Learning / Computer Vision**
+- **Python-based Web Development**
+- **AI-Enhanced Applications**
+- **2D Game Projects (Godot preferred)**
 
-## 📫 How to Reach Me:
-- **Facebook**: <a href="https://facebook.com/brianshiroe" target="_blank">facebook.com/brianshiroe</a>  
-- **LinkedIn**: <a href="https://linkedin.com/in/brianshiroe" target="_blank">linkedin.com/in/brianshiroe</a>  
-- **Email**: <a href="mailto:brianshiroe@gmail.com" target="_blank">brianshiroe@gmail.com</a>
+If you're working on something exciting in these areas, I'd love to connect!
+
+## 📫 Get in Touch
+- 📘 [Facebook](https://facebook.com/brianshiroe)
+- 💼 [LinkedIn](https://linkedin.com/in/brianshiroe)
+- 📧 [Email](mailto:brianshiroe@gmail.com)
+
+---
+
+> _“Code is not just about solving problems; it's about creating possibilities.”_
 
 <!---
 BrianShiroe/BrianShiroe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
