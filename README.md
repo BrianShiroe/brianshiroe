@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Haw
+# Full Stack Python Developer | AI & Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
 I'm a passionate developer with a strong focus on **Artificial Intelligence & Machine Learning**, **Game Development**, and **Full Stack Web Development**. Whether it's building smart systems, designing engaging gameplay experiences, or crafting powerful web platforms, I love bringing ideas to life through code.
