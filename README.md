@@ -4,14 +4,15 @@
 I'm a passionate developer with a strong focus on **Artificial Intelligence & Machine Learning**, **Game Development**, and **Full Stack Web Development**. Whether it's building smart systems, designing engaging gameplay experiences, or crafting powerful web platforms, I love bringing ideas to life through code.
 
 ## 🚀 Current Focus
-I'm currently delving deep into **Large Language Models (LLMs)** and exploring their integration into real-world applications to unlock smarter, more adaptive features across my projects.
+I'm currently diving deep into **Large Language Models (LLMs)**.
 
 ## 🤝 Let's Collaborate
 I'm always open to collaboration on projects involving:
-- **Machine Learning / Computer Vision**
-- **Python-based Web Development**
+- **Machine Learning**
+- **Web Development**
+- **Python Development**
 - **AI-Enhanced Applications**
-- **2D Game Projects (Godot preferred)**
+- **2D/3D Game Projects (Godot, Unity, Unreal)**
 
 If you're working on something exciting in these areas, I'd love to connect!
 
