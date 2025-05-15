@@ -2,7 +2,7 @@
   <img src="https://github.com/BrianShiroe/BrianShiroe/raw/main/banner.gif" alt="Brian's Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi! I'm Brian Shiroe</h1>
+<h1 align="center">👋 Hi! I'm Brian Haw</h1>
 
 <h3 align="center">🧑‍💻 Full Stack | Game | Machine Learning | Software Developer | Video Editor</h3>
 
