@@ -4,7 +4,7 @@
 
 # 👋 Hi! I'm Brian Shiroe
 
-### 🧑‍💻 Full Stack | Game | Machine Learning | Software Developer | Video Editor
+## 🧑‍💻 Full Stack | Game | Machine Learning | Software Developer | Video Editor
 
 ---
 
