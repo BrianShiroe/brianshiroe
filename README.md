@@ -58,4 +58,4 @@
 
 ### 🎉 Fun Fact
 
-> When I’m not coding or editing videos, I’m probably gaming or trying to teach my dog new tricks! 🐶🎮
+> When I’m not coding or editing videos, I’m probably gaming 🎮 or working out 💪 — because life is meant to be enjoyed and fun!
