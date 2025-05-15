@@ -13,7 +13,7 @@
 [![Full Stack](https://img.shields.io/badge/Full_Stack-💻-brightgreen?style=for-the-badge&logo=visual-studio-code)](https://github.com/BrianShiroe) 
 [![Game Dev](https://img.shields.io/badge/Game_Dev-🎮-blueviolet?style=for-the-badge&logo=unity)](https://github.com/BrianShiroe)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-🤖-orange?style=for-the-badge&logo=tensorflow)](https://github.com/BrianShiroe)
-[![Python](https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge&logo=python)](https://github.com/BrianShiroe)
+[![Python Dev](https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge&logo=python)](https://github.com/BrianShiroe)
 [![Video Editing](https://img.shields.io/badge/Video_Editing-🎬-red?style=for-the-badge)](https://github.com/BrianShiroe)
 
 ---
