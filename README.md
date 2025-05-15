@@ -1,7 +1,7 @@
 # Full Stack Python Developer | AI & Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
-I'm a passionate developer with a strong focus on **Machine Learning**, **Game Development**, and **Full Stack Web Development**. Whether it's building smart systems, designing engaging gameplay experiences, or crafting powerful web platforms, I love bringing ideas to life through code.
+Developer with a strong focus on **Machine Learning**, **Game Development**, and **Full Stack Web Development**. Whether it's building smart systems, designing engaging gameplay experiences, or crafting powerful web platforms, I love bringing ideas to life through code.
 
 ## 🤝 Let's Collaborate
 I'm always open to collaboration on projects involving:
