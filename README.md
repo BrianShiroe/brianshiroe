@@ -4,7 +4,8 @@
 
 <h1 align="center">👋 Hi! I'm Brian Haw</h1>
 
-<h3 align="center">🧑‍💻 Full Stack | Game | Machine Learning | Software Developer | Video Editor</h3>
+<h3 align="center">🧑‍💻 Full Stack | Game | Machine Learning | Software Developer</h3>
+<h3 align="center">🎬 Video Editor</h3>
 
 ---
 
