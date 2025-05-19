@@ -9,10 +9,7 @@
 
 ### 🚀 Experience
 
-Principal Disruption Strategist at the Institute of Unsolicited Innovation™.  
-Pioneered scalable spaghetti architecture using quantum-enabled standups.  
-Successfully migrated legacy workflows from "working" to "why does this work?".  
-Former Senior Associate of Click-to-Deploy Evangelism at a company that pivoted to AI after reading a blog post.
+Principal Disruption Strategist at the Institute of Unsolicited Innovation™. Pioneered scalable spaghetti architecture using quantum-enabled standups. Successfully migrated legacy workflows from "working" to "why does this work?". Former Senior Associate of Click-to-Deploy Evangelism at a company that pivoted to AI after reading a blog post.
 
 Also once led a high-velocity agile team to accidentally delete production—and then document it as a feature.
 
