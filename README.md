@@ -9,11 +9,9 @@
 
 ### 🚀 Experience
 
-Principal Disruption Strategist at the Institute of Unsolicited Innovation™. Pioneered scalable spaghetti architecture using quantum-enabled standups. Successfully migrated legacy workflows from "working" to "why does this work?". Former Senior Associate of Click-to-Deploy Evangelism at a company that pivoted to AI after reading a blog post.
+Principal Disruption Strategist at the Institute of Unsolicited Innovation™. Pioneered scalable spaghetti architecture using quantum-enabled structures. Successfully deployed systems that went from "functional" to "What is the underlying principle that makes this effective?". Former lead developer of Calbi, architected advanced computer vision AI systems that questioned their own existence while detecting anomalies—because if your algorithm isn’t existentially confused, is it really intelligent? Built machine learning models that philosophize about accidents before alerting first responders, ensuring both speed and profound self-awareness.
 
-Also once led a high-velocity agile team to accidentally delete production—and then document it as a feature.
-
-If 'nonsense' ever hits GitHub trending I'll use arch
+Aspire to be one of the so called 'the greatest developer that ever lived'
 
 ---
 
