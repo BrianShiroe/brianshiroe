@@ -35,10 +35,6 @@
   <a href="mailto:brianshiroe@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="mailto:brianshiroe@gmail.com" target="_blank" style="text-decoration:none; font-weight:bold; background-color:#0A66C2; color:white; padding: 10px 20px; border-radius: 8px;">Shoot me an email ✉️</a>
-</p>
-
 ---
 
 > 💡 <em>“Code is not just about solving problems; it's about creating possibilities.”</em>
