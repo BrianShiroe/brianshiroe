@@ -2,11 +2,8 @@
   <img src="https://github.com/BrianShiroe/BrianShiroe/raw/main/banner.gif" alt="Brian's Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Brian Haw 👋</h1>
+<h1 align="center">Brian Haw 👋</h1>
 <h2 align="center">Full Stack | Game | Machine Learning | Software Developer</h2>
-<h3 align="center">
-  <a href="https://brianshiroe.netlify.app" target="_blank" rel="noopener noreferrer">💻 My Web Portfolio</a>
-</h3>
 
 ---
 
@@ -20,6 +17,12 @@ Former Senior Associate of Click-to-Deploy Evangelism at a company that pivoted 
 Also once led a high-velocity agile team to accidentally delete production—and then document it as a feature.
 
 If 'nonsense' ever hits GitHub trending I'll use arch
+
+---
+
+<h3 align="center">
+  <a href="https://brianshiroe.netlify.app" target="_blank" rel="noopener noreferrer">💻 My Web Portfolio</a>
+</h3>
 
 ---
 
