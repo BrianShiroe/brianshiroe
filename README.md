@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi! I'm Brian Haw</h1>
-<h2>👋 Web Portfolio: [brianshiroe.netlify.app](https://brianshiroe.netlify.app)</h2>
+<h2 align="center">👋 Web Portfolio: [brianshiroe.netlify.app](https://brianshiroe.netlify.app)</h2>
 
 <h3 align="center">🧑‍💻 Full Stack | Game | Machine Learning | Software Developer
 
