@@ -10,13 +10,16 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Experience
 
-I'm a **10x developer** who can single-handedly rewrite the entire internet using just one line of Python, while simultaneously debugging quantum code on a coffee break. When not revolutionizing the tech world, I also moonlight as a game dev ninja and part-time AI whisperer. 
+Principal Disruption Strategist at the Institute of Unsolicited Innovation™.  
+Pioneered scalable spaghetti architecture using quantum-enabled standups.  
+Successfully migrated legacy workflows from "working" to "why does this work?".  
+Former Senior Associate of Click-to-Deploy Evangelism at a company that pivoted to AI after reading a blog post.
 
-In short, I solve problems nobody else even knew existed, all before breakfast.
+Also once led a high-velocity agile team to accidentally delete production—and then document it as a feature.
 
-*(Disclaimer: Some exaggeration may be involved. Results may vary.)*
+If 'nonsense' ever hits GitHub trending I'll use arch
 
 ---
 
