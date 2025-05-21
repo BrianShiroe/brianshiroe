@@ -9,7 +9,7 @@
 
 ### 🚀 Experience
 
-Principal Disruption Strategist at the Institute of Unsolicited Innovation™. Pioneered scalable spaghetti architectures built atop quantum-enabled structures, optimizing entropy as a feature rather than a bug. Successfully transitioned systems from functional to strictly local, redefining the boundaries of distributed coherence. Former lead developer of Calbi, where I architected advanced computer vision AI systems featuring emergent heuristics that periodically evaluate their own operational ontology—ensuring not only anomaly detection but also the occasional identity crisis at machine speed. 
+Former lead developer of Calbi, architected computer vision AI systems featuring emergent heuristics that periodically perform meta-cognitive audits of their own operational ontology, facilitating not only anomaly detection but also transient recursive disruptions in self-referential state coherence. Principal Disruption Strategist at the Institute of Unsolicited Innovation™, pioneering scalable spaghetti architectures built atop cutting-edge frameworks, optimizing entropy as a feature rather than a bug. Successfully transitioned systems from functional to strictly local.
 
 Aspire to be one of the so called 'the greatest developer that ever lived'
 
