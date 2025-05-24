@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/BrianShiroe/BrianShiroe/raw/main/banner.gif" alt="Brian's Banner" width="100%" />
-</p>
-
 <h1 align="center">Brian Haw</h1>
 <h2 align="center">Full Stack | Game | Machine Learning | Software Developer</h2>
 
@@ -66,4 +62,4 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 
 ### 🎉 Fun Fact
 
-When I'm not coding or editing videos, I enjoy gaming 🎮 and working out 💪 — because life should be both productive and fun.
+When I'm not coding or developing projects, I am gaming 🎮 or working out 💪 — because life should be both productive and fun.
