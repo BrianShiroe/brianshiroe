@@ -2,7 +2,7 @@
   <img src="https://github.com/BrianShiroe/BrianShiroe/raw/main/banner.gif" alt="Brian's Banner" width="100%" />
 </p>
 
-<h1 align="center">Brian Haw 👋</h1>
+<h1 align="center">Brian Haw</h1>
 <h2 align="center">Full Stack | Game | Machine Learning | Software Developer</h2>
 
 ---
@@ -50,7 +50,11 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianShiroe&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianShiroe&show_icons=true&theme=radical&count_private=true&hide=issues&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BrianShiroe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
