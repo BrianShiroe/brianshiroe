@@ -54,7 +54,7 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianShiroe&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BrianShiroe&theme=radical&column=7" alt="Trophies" />
 </p>
 
 
