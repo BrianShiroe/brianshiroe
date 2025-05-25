@@ -54,7 +54,7 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShiroe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianShiroe&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 
