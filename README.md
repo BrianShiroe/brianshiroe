@@ -12,7 +12,10 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 ---
 
 <h3 align="center">
-  <a href="https://brianshiroe.netlify.app" target="_blank" rel="noopener noreferrer">💻 My Web Portfolio</a>
+  <a href="https://brianshiroe.netlify.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" width="40" style="vertical-align:middle" /> 
+    My Web Portfolio
+  </a>
 </h3>
 
 ---
