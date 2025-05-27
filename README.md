@@ -18,7 +18,6 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
   </a>
 </h3>
 
-
 ---
 
 ### 🛠 Technologies & Skills
