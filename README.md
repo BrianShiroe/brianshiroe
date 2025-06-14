@@ -64,4 +64,4 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
 
 ### 🎉 Fun Fact
 
-When I'm not coding or developing projects, I am gaming 🎮 or working out 💪 — because life should be both productive and fun.
+When I'm not coding 🧑‍💻, I am gaming 🎮 or working out 💪 — because life should be productive, fun, and healthy.
