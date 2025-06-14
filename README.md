@@ -5,7 +5,7 @@
 
 ### 🚀 Experience
 
-Former lead developer of Calbi, architected computer vision AI systems featuring emergent heuristics that periodically perform meta-cognitive audits of their own operational ontology, facilitating not only anomaly detection but also transient recursive disruptions in self-referential state coherence. Principal Disruption Strategist at the Institute of Unsolicited Innovation™, pioneering scalable spaghetti architectures built atop cutting-edge frameworks, optimizing entropy as a feature rather than a bug. Successfully transitioned systems from functional to strictly local.
+I am a passionate full-stack software developer. I love building, coding, and refining software applications—from web apps to games and AI. I just can’t get enough of the feeling of sitting in a chair, staring at the screen, and working day and night to bring projects to life. I will continue this journey until I become a full-fledged developer and achieve success in this field of work.
 
 Aspire to be one of the so called 'the greatest developer that ever lived'
 
