@@ -27,7 +27,6 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
   <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Game Dev" src="https://img.shields.io/badge/Game_Dev-🎮-blueviolet?style=for-the-badge&logo=unity" /></a>
   <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-🤖-orange?style=for-the-badge&logo=tensorflow" /></a>
   <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Python Dev" src="https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge&logo=python" /></a>
-  <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Video Editing" src="https://img.shields.io/badge/Video_Editing-🎬-red?style=for-the-badge" /></a>
 </p>
 
 ---
