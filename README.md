@@ -52,10 +52,6 @@ Aspire to be one of the so called 'the greatest developer that ever lived'
   <img src="https://github-readme-stats.vercel.app/api?username=BrianShiroe&show_icons=true&theme=radical&count_private=true&hide=issues&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BrianShiroe&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShiroe&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </p>
