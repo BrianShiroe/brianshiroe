@@ -5,9 +5,7 @@
 
 ### 🚀 Experience
 
-I am a passionate full-stack software developer. I love building, coding, and refining software applications—from web apps to games and AI. I just can’t get enough of the feeling of sitting in a chair, staring at the screen, and working day and night to bring projects to life. I will continue this journey until I become a full-fledged developer and achieve success in this field of work.
-
-Aspire to be one of the so called 'the greatest developer that ever lived'
+I'm a Computer Science graduate with a passion for exploring the field — from full-stack development to problem-solving, data structures, and emerging technologies. I enjoy building functional applications and understanding how systems work to solve real-world challenges. I'm committed to continuous learning and applying my skills to create innovative and practical solutions.
 
 ---
 
