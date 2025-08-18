@@ -21,10 +21,17 @@ I'm a Computer Science graduate with a passion for exploring the field — from 
 ### 🛠 Technologies & Skills
 
 <p align="center">
-  <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Full Stack" src="https://img.shields.io/badge/Full_Stack-💻-brightgreen?style=for-the-badge&logo=visual-studio-code" /></a> 
-  <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Game Dev" src="https://img.shields.io/badge/Game_Dev-🎮-blueviolet?style=for-the-badge&logo=unity" /></a>
-  <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-🤖-orange?style=for-the-badge&logo=tensorflow" /></a>
-  <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer"><img alt="Python Dev" src="https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge&logo=python" /></a>
+ <a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer">
+  <img alt="Full Stack" src="https://img.shields.io/badge/Full_Stack-💻-brightgreen?style=for-the-badge&logo=visual-studio-code" />
+</a> 
+
+<a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer">
+  <img alt="Software Development" src="https://img.shields.io/badge/Software_Development-🛠️-blue?style=for-the-badge&logo=github" />
+</a> 
+
+<a href="https://github.com/BrianShiroe" target="_blank" rel="noopener noreferrer">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-🤖-orange?style=for-the-badge&logo=tensorflow" />
+</a>
 </p>
 
 ---
