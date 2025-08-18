@@ -1,5 +1,5 @@
 <h1 align="center">Brian Haw</h1>
-<h2 align="center">Full Stack | Game | Machine Learning | Software Developer</h2>
+<h2 align="center">Full Stack | Software Developer</h2>
 
 ---
 
