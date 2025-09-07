@@ -8,6 +8,4 @@ Full Stack Software Developer with a passion for building functional application
 - Machine Learning  
 
 ## Contacts
-- [Email](brianshiroe@gmail.com)
-- [Portfolio](https://brianshiroe.netlify.app)
-- [LinkedIn](https://linkedin.com/in/brianshiroe)
+"[Email](brianshiroe@gmail.com) | [Portfolio](https://brianshiroe.netlify.app) | [LinkedIn](https://linkedin.com/in/brianshiroe)"
