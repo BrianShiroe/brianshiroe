@@ -6,6 +6,3 @@ Full Stack Software Developer with a passion for building functional application
 - Full Stack Development
 - Software Development
 - Machine Learning  
-
-## Contacts
-Portfolio: brianshiroe.netlify.app
