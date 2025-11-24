@@ -1,6 +1,6 @@
 ## "About Me"
 
-Full Stack Software Developer with a passion for building functional applications and solving real-world problems. I enjoy exploring full-stack development, data structures, algorithms, and emerging technologies, and I am committed to continuous learning and creating practical solutions.
+Passionate Web Developer with a solid academic foundation and strong commitment to growth. Skilled in WordPress and Shopify, with basic knowledge of Odoo ERP, and a keen interest in React and Next.js development. Motivated, adaptable, and able to learn independently, focused on contributing effectively to team and organizational goals while continuously improving technical skills.
 
 ## Skills
 - Wordpress
