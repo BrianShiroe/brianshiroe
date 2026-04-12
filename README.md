@@ -1,12 +1,3 @@
-## "About Me"
+Hi, I’m Brian Haw — a Dubai-based Full-Stack Web Developer focused on building scalable, high-performance digital solutions.
 
-Passionate Web Developer with a solid academic foundation and strong commitment to growth. Skilled in WordPress and Shopify, with basic knowledge of Odoo ERP, and a keen interest in React and Next.js development. Motivated, adaptable, and able to learn independently, focused on contributing effectively to team and organizational goals while continuously improving technical skills.
-
-## Skills
-- Wordpress
-- Shopify
-- Odoo ERP
-- Next.js
-- React
-- Full Stack Developmen
-- Machine Learning  
+I specialize in developing modern web applications, e-commerce platforms, and business systems that don’t just look good — they drive real results.
